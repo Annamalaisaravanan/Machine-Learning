@@ -4,7 +4,7 @@
    
    The above code has been explained in the medium article. You can read the article [here](https://saravananannamalai4871.medium.com/k-means-neighbour-from-scratch-in-python-11c9ffc0e834).
    
-
+   
 # Heart-attack-analysis
          
-         This Notebook contains a Exploratory Data Analysis of a Heart-attack dataset which contains 13 independent variables and one dependent variable. The different plots were plotted between different variables. Models such as LogisticRegression and KNeighborClassfier were fitted on to the dataset and model accuracy was calculated.
+   This Notebook contains a Exploratory Data Analysis of a Heart-attack dataset which contains 13 independent variables and one dependent variable. The different plots were plotted between different variables. Models such as LogisticRegression and KNeighborClassfier were fitted on to the dataset and model accuracy was calculated.
