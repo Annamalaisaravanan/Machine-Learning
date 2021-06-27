@@ -1,4 +1,4 @@
-# [K-nearest neighbour](https://github.com/Annamalaisaravanan/Machine-Learning/blob/master/k-means%20neighbour.py) 
+# [K-nearest-neighbour](https://github.com/Annamalaisaravanan/Machine-Learning/blob/master/k-means%20neighbour.py) 
 
   K-nearest neighbour is one of the Classification models in Machine Learning. I have used a Euclidean distance to calculate the closeness between two data points. Here the Iris Dataset contain four coordinates.
    
